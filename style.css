@@ -80,7 +80,7 @@ footer {
     overflow: hidden;
     font-size: 12px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
 }
@@ -101,7 +101,7 @@ footer ul li {
 
 .footer-sm {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
 }
 
@@ -221,14 +221,6 @@ footer ul li {
     
     .gallery h2 {
         display: none;
-    }
-    
-    footer {
-        flex-direction: row;
-    }
-    
-    .footer-sm {
-        flex-direction: column;
     }
 
 }
