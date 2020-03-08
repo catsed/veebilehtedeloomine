@@ -1,0 +1,60 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+
+footer a:link {
+    font-size: 45px;
+}
+
+footer a.fb:link,
+footer a.fb:visited {
+    color: #2E4D86;
+}
+footer a.fb:hover,
+footer a.fb:active{
+    color: #4267B2;
+}
+
+footer a.tw:link,
+footer a.tw:visited {
+    color: #1DA1F2;
+}
+footer a.tw:hover,
+footer a.tw:active{
+    color: #3EC6EA;
+}
